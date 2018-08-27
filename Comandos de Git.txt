@@ -7,3 +7,7 @@ Segundo caso:
 cuando trabajo con un repositorio web:
 git clone (repositorio)
 Pasos a seguir para cada commit:
+
+1) git status (para verificar el estado)
+2) git add . (para agregar cosas al archivo)
+3)git commit -m "(mensaje)"

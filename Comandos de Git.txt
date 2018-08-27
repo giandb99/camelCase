@@ -1,6 +1,9 @@
+Para iniciar un repositorio:
+
 Primer caso: 
 cuando trabajo de forma local:
 git init
 Segundo caso:
 cuando trabajo con un repositorio web:
 git clone (repositorio)
+Pasos a seguir para cada commit:
